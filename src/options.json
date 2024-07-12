@@ -1,0 +1,107 @@
+[
+    {
+        "red": false,
+        "star": true,
+        "led": false,
+        "blue": false,
+        "result": "c"
+    },
+    {
+        "red": true,
+        "star": true,
+        "led": false,
+        "blue": false,
+        "result": "c"
+    },
+    {
+        "red": true,
+        "star": true,
+        "led": false,
+        "blue": true,
+        "result": "p"
+    },
+    {
+        "red": false,
+        "star": true,
+        "led": false,
+        "blue": true,
+        "result": "n"
+    },
+    {
+        "red": false,
+        "star": true,
+        "led": true,
+        "blue": true,
+        "result": "p"
+    },
+    {
+        "red": false,
+        "star": true,
+        "led": true,
+        "blue": false,
+        "result": "b"
+    },
+    {
+        "red": false,
+        "star": false,
+        "led": true,
+        "blue": false,
+        "result": "n"
+    },
+    {
+        "red": true,
+        "star": true,
+        "led": true,
+        "blue": true,
+        "result": "n"
+    },
+    {
+        "red": true,
+        "star": false,
+        "led": true,
+        "blue": true,
+        "result": "s"
+    },
+    {
+        "red": false,
+        "star": false,
+        "led": true,
+        "blue": true,
+        "result": "p"
+    },
+    {
+        "red": true,
+        "star": false,
+        "led": true,
+        "blue": false,
+        "result": "b"
+    },
+    {
+        "red": true,
+        "star": false,
+        "led": false,
+        "blue": false,
+        "result": "s"
+    },
+    {
+        "red": true,
+        "star": true,
+        "led": true,
+        "blue": false,
+        "result": "b"
+    },
+    {
+        "red": false,
+        "star": false,
+        "led": false,
+        "blue": true,
+        "result": "s"
+    },
+    {
+        "red": true,
+        "star": false,
+        "led": false,
+        "blue": true,
+        "result": "s"
+    }
+]
